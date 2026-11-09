@@ -1,0 +1,18 @@
+.menu > li {
+  border: 1px solid tomato;
+}
+
+/*  */
+
+.social-links .link {
+  color: teal;
+}
+
+.social-links .link:hover,
+.social-links .link:focus {
+  color: orange;
+}
+
+.social-links .link:active {
+  color: red;
+}
