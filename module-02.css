@@ -16,3 +16,17 @@
 .social-links .link:active {
   color: red;
 }
+
+/*  */
+
+.post {
+  color: rgb(69, 165, 69);
+}
+
+.post-link {
+  color: inherit;
+}
+
+.post-link-second {
+  color: currentcolor;
+}
